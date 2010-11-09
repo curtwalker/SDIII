@@ -1,0 +1,5 @@
+C:\Users\Curt\Documents\My Dropbox\University\Year 2\Semester 1\Software Development III\Assignment\Part 1 - CD Collection\Part 1 - CD Collection\bin\Debug\Part 1 - CD Collection.exe
+C:\Users\Curt\Documents\My Dropbox\University\Year 2\Semester 1\Software Development III\Assignment\Part 1 - CD Collection\Part 1 - CD Collection\bin\Debug\Part 1 - CD Collection.pdb
+C:\Users\Curt\Documents\My Dropbox\University\Year 2\Semester 1\Software Development III\Assignment\Part 1 - CD Collection\Part 1 - CD Collection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Curt\Documents\My Dropbox\University\Year 2\Semester 1\Software Development III\Assignment\Part 1 - CD Collection\Part 1 - CD Collection\obj\x86\Debug\Part 1 - CD Collection.exe
+C:\Users\Curt\Documents\My Dropbox\University\Year 2\Semester 1\Software Development III\Assignment\Part 1 - CD Collection\Part 1 - CD Collection\obj\x86\Debug\Part 1 - CD Collection.pdb
